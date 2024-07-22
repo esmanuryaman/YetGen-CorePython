@@ -1,0 +1,5 @@
+kullanici adi Enes Yaman
+kullanýcýnýn yas, kilo, boy bilgisi 17,70.0,175.0
+kullanýcýn vkisi 0.002285714285714286
+deðer aralýðý zayýf
+oluþturma tarihi: Mon Jul 22 22:23:00 2024********************

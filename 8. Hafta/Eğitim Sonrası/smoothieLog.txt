@@ -1,0 +1,2 @@
+Tarih: 2024-07-22 22:33:30, Se�imler: {'meyve': 'cilek', 'sut': 'sut', 'tatlandirici': 'bal'}, Toplam Fiyat: 4.5 TL
+Tarih: 2024-07-22 22:36:27, Se�imler: {'meyve': 'cilek', 'sut': 'sut', 'tatlandirici': 'bal'}, Toplam Fiyat: 4.5 TL
